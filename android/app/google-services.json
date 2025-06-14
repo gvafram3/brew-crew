@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "419492633359",
+    "project_id": "authentication-practice-ad7c5",
+    "storage_bucket": "authentication-practice-ad7c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419492633359:android:81d9cd8a0e468a1dd57c7a",
+        "android_client_info": {
+          "package_name": "com.alofff.brew_crew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYh9eDNc_GaRdOZ8I688DMnpyciUi01Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419492633359:android:534700fd0ba2bd1dd57c7a",
+        "android_client_info": {
+          "package_name": "com.example.tut_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYh9eDNc_GaRdOZ8I688DMnpyciUi01Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
